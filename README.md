@@ -7,7 +7,6 @@ Are y'all having a good day ? If not, I wish you so for tomorrow !
 - 💻 I'm currently studying `Computer Science`
 - 🥇 I'm learning `HTML | CSS | JS | React | Bootstrap and a few other things`
 - 🎀 I like `ribbons`
-<br>
 
 ## What am I doing ?
 If I'm not sleeping or playing video games. I'm probably working on something super cool !
