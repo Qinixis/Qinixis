@@ -1,4 +1,4 @@
-# <center>🎀 Heyyo 👋<center>
+# <div align = "center">🎀 Heyyo 👋</div>
 Are y'all having a good day ? If not, I wish you so for tomorrow !
 
 ## Quick Introduction
