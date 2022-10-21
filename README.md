@@ -5,7 +5,7 @@ Are y'all having a good day ? If not, I wish you so for tomorrow !
 - 🇫🇷 I'm `French`
 - ♂️ My pronouns are `He / Him`
 - 💻 I'm currently studying `Computer Science`
-- 🥇 I'm learning `HTML | CSS | JS | React | Bootstrap and a few other things`
+- 🥇 I'm learning `HTML | CSS | JS | SASS | TS`
 - 🎀 I like `ribbons`
 
 ## What am I doing ?
